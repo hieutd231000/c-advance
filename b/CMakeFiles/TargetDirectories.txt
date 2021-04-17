@@ -1,0 +1,7 @@
+/home/hieu/Desktop/miniproject (2)-20200611T072956Z-001/miniproject (2)/b/CMakeFiles/rebuild_cache.dir
+/home/hieu/Desktop/miniproject (2)-20200611T072956Z-001/miniproject (2)/b/CMakeFiles/edit_cache.dir
+/home/hieu/Desktop/miniproject (2)-20200611T072956Z-001/miniproject (2)/b/CMakeFiles/main.dir
+/home/hieu/Desktop/miniproject (2)-20200611T072956Z-001/miniproject (2)/b/CMakeFiles/test.dir
+/home/hieu/Desktop/miniproject (2)-20200611T072956Z-001/miniproject (2)/b/BTREE/CMakeFiles/rebuild_cache.dir
+/home/hieu/Desktop/miniproject (2)-20200611T072956Z-001/miniproject (2)/b/BTREE/CMakeFiles/bt.dir
+/home/hieu/Desktop/miniproject (2)-20200611T072956Z-001/miniproject (2)/b/BTREE/CMakeFiles/edit_cache.dir

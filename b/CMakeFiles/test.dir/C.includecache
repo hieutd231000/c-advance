@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hieu/Desktop/miniproject (2)-20200611T072956Z-001/miniproject (2)/BTREE/inc/bc.h
+limits.h
+-
+
+/home/hieu/Desktop/miniproject (2)-20200611T072956Z-001/miniproject (2)/BTREE/inc/bt.h
+stdio.h
+-
+bc.h
+/home/hieu/Desktop/miniproject (2)-20200611T072956Z-001/miniproject (2)/BTREE/inc/bc.h
+
+/home/hieu/Desktop/miniproject (2)-20200611T072956Z-001/miniproject (2)/BTREE/inc/btree.h
+bt.h
+/home/hieu/Desktop/miniproject (2)-20200611T072956Z-001/miniproject (2)/BTREE/inc/bt.h
+
+/home/hieu/Desktop/miniproject (2)-20200611T072956Z-001/miniproject (2)/builddata.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+BTREE/inc/btree.h
+/home/hieu/Desktop/miniproject (2)-20200611T072956Z-001/miniproject (2)/BTREE/inc/btree.h
+
